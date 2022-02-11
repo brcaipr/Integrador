@@ -1,0 +1,10 @@
+img{
+    position: relative;
+    border-radius: 50%;
+    width: 152px;
+    height: 152px;
+    margin-top: -85px;
+    margin-left: 60px;
+    z-index: 1;
+    
+}
